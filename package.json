@@ -97,7 +97,7 @@
     "p-queue": "^8.1.0",
     "pdf-parse": "^1.1.1",
     "postcss": "^8.5.3",
-    "posthog-js": "^1.236.4",
+    "posthog-js": "^1.249.0",
     "posthog-node": "^4.13.0",
     "react": "^19.1.0",
     "react-day-picker": "9.6.7",
